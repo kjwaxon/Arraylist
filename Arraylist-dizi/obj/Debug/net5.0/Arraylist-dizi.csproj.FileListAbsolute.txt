@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\Ödev1804\Arraylist-dizi\bin\Debug\net5.0\Arraylist-dizi.exe
+C:\Users\Asus\source\repos\Ödev1804\Arraylist-dizi\bin\Debug\net5.0\Arraylist-dizi.deps.json
+C:\Users\Asus\source\repos\Ödev1804\Arraylist-dizi\bin\Debug\net5.0\Arraylist-dizi.runtimeconfig.json
+C:\Users\Asus\source\repos\Ödev1804\Arraylist-dizi\bin\Debug\net5.0\Arraylist-dizi.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Ödev1804\Arraylist-dizi\bin\Debug\net5.0\Arraylist-dizi.dll
+C:\Users\Asus\source\repos\Ödev1804\Arraylist-dizi\bin\Debug\net5.0\ref\Arraylist-dizi.dll
+C:\Users\Asus\source\repos\Ödev1804\Arraylist-dizi\bin\Debug\net5.0\Arraylist-dizi.pdb
+C:\Users\Asus\source\repos\Ödev1804\Arraylist-dizi\obj\Debug\net5.0\Arraylist-dizi.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Ödev1804\Arraylist-dizi\obj\Debug\net5.0\Arraylist-dizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Ödev1804\Arraylist-dizi\obj\Debug\net5.0\Arraylist-dizi.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Ödev1804\Arraylist-dizi\obj\Debug\net5.0\Arraylist-dizi.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Ödev1804\Arraylist-dizi\obj\Debug\net5.0\Arraylist-dizi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Ödev1804\Arraylist-dizi\obj\Debug\net5.0\Arraylist-dizi.dll
+C:\Users\Asus\source\repos\Ödev1804\Arraylist-dizi\obj\Debug\net5.0\ref\Arraylist-dizi.dll
+C:\Users\Asus\source\repos\Ödev1804\Arraylist-dizi\obj\Debug\net5.0\Arraylist-dizi.pdb
+C:\Users\Asus\source\repos\Ödev1804\Arraylist-dizi\obj\Debug\net5.0\Arraylist-dizi.genruntimeconfig.cache
